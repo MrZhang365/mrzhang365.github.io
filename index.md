@@ -7,9 +7,7 @@ Hi，我是一名姓张的初二学生，喜欢编程（全职程序员），尤
 经历过一些恶性事件（例如卢本伟事件），所以变得有些敏感（尤其是对“嘿嘿嘿”这三个字），请多见谅。  
 ## 个人产品  
 1. [小张软件](https://mrzhang365.github.io/zhangsoft/)  
-2. Zhang系列Bot  
-3. [小张文档](https://mrzhang365.github.io/zhangdocs/)  
-
+2. Zhang系列Bot   
 
 ## 友好的链接  
 [纸片君ee的个人主页](https://paperee.tk/)  
